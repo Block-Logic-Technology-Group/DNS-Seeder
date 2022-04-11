@@ -52,7 +52,7 @@ sudo apt-get install git build-essential libboost-all-dev libssl-dev libcurl4-op
 ### Step 2 - Download Source Code
 
 ```
-git clone https://github.com/Block-Logic-Technology-Group/DNS-Seeder.git
+git clone https://github.com/Block-Logic-Technology-Group/generic-seeder.git
 ```
 
 ### Step 3 - Navigate to Source Directory
