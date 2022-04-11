@@ -58,7 +58,7 @@ git clone https://github.com/Block-Logic-Technology-Group/DNS-Seeder.git
 ### Step 3 - Navigate to Source Directory
 
 ```
-cd generic-seeder
+cd DNS-Seeder
 ```
 
 ### Step 4 - Configure Seeder Settings
